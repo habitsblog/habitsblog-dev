@@ -21,9 +21,7 @@ The chemical component associated with each conversation has an empirically demo
 Glaser placed great emphasis on the power of these types of healthy conversations, and how they impact organisational cohesion and success. In the *Conversational Dashboard* she gives some examples as to how the level of trust impacts which part of the brain is active, and how open one can be to collaborate and innovate with their chosen conversation partner.
 
 
-
-
-![Glaser1](https://i.imgur.com/BevcUO1.png)
+![Glaser1](https://lh3.googleusercontent.com/VXPg-Q8z7YF2paXehIcrpXu0WdDNESbmHXVpQg50YYPCvlZJwCXbrp1fS1TyqiOXz_62or6fUu9g-CWDRxLctsvMu-aS_YLqQ2cipZI7DriGeQNWR6G4z5A5bdMQ17-i0DUEdeqX6yzU90Mm3FpVIbcSc2e1TDz6EhUrhyoDVhmas5psqGcO_B78OZyWrl-_fz7mIH6BfcaMdtcwxpKOU3h7oHaHLC10VQJHWvID1CzlHwW7IknhUzkMXhbEjQAP8_E265E65shV5cAmzuaZAWZJyz1AAGKTaOB4xKMzwQw2IRmiD_4JDPwFjUpCZqaPpUgJSp2vlrc33gWWDkD9IWi1Of7UH4xrO5MOk5y18DN8NKXzy0awRlPhzLnUsSOaXiDZawbYORz48Q9X6J8pjfh-pmxtPVekICmm05Y3lijIM_WPFbATSQnxrJVIi2o8EkrGJuZlq4AgyRfc6IZtPW6U2l2NFSG8Ii7gVoH8C0rCWl3nKvteJfPMbR0VwhyBzbc1p2j724EaqYzQwiy5ksacUXYiBJW9YtEwmFA772hd3BSw3XHgdppO6EZ0G5pZYvaA180M-tbHikPCtyRAe3NqSduqrT--T2AOoOzBfeZXuqM2htmvBLMuTq7ydcZxFQRLizpYqwjPFXcBwzeW5hmVBXFM2cI=w354-h220-no)
 {: align="middle"}
 Trust, brain activation and conversational results
 {: style="color: gray; font-size: 80%; text-align: center;"}
@@ -38,7 +36,7 @@ She defines three overarching levels of conversation:
 
 Gives a bit more context to these levels, expanding them to 5 different tiers, with the same underlying principles.
 
-![Glaser2](https://i.imgur.com/eomX4xd.png)
+![Glaser2](https://lh3.googleusercontent.com/mErXFuBnoLa5zJEP1e5tOZYkp4uzXPoHPM4uFkgs-Fk4E7EKaZrGdGHS_-ObCg0mxAFSePSYgDWmVirzKH3lxZ0S_k4XVzeJ0CAEGZE2EIDSVREfhp6Rrkne1kmFqPLC5kizX_XEBHHKZDwqDZhd4CIpialDVvqwQOin368Kmf47VMXP3Ph6DrckvleNv9ZtQkglHfO9c78BBTESNr8i_ZR3cJXVZ47mx0S5Hh8I8Sk3wh9FKlv-kivRb_zKBwDhVpdOemorudmG-OAyLIAEwCJdY3lg_AMGCajjXNAFCwudyQuRYiIBpRD3nDnPjfe5wqVTreJoxnJQXdkfSbLgXA4uIAqnHiutER9Wp3kpwCtS3jrVCODljayyLFt7UaExn_qUnH7BouFdzwPz_KpXLta_ZNhrDfv1ZubyHQ7mjgTpvPEVzzAMGQOVhq5WpE-zf4euey2_HaWTLvBKeKUqDmXSeN0w3vxPjkWau-1f54orwtMOtNNq4raVmH4ulTAxwpMOrlOnDUF633hZiSgHGuPhUYOw83J81Ozl3hyNItwkGWGJCJrBHRcyEGw0BhXalEu6lZ-AuP2xyG9wbnHuHzIpYvWIxrZc90xubpOrXlUEL7oZD9w_7OXrLHyllLL2EKgCALTgaF7FTWW--_KNa44m4dAoE7k=w1316-h936-no)
 {: align="middle"}
 Conversation levels
 {: style="color: gray; font-size: 80%; text-align: center;"}
