@@ -30,9 +30,9 @@ author:
   name:              anonymous
   email:             habitsblog1@gmail.com
   picture:
-    path:           /assets/img/Hlogo.png
+    path:            /assets/img/Hlogo.png
     srcset:
-      1x:           /assets/img/Hlogo.png
+      1x:            /assets/img/Hlogo.png
 
 # Fallback image and color
 image:               /assets/img/nap.png
@@ -109,7 +109,7 @@ collections:
 #  Advanced configuration
 # -----------------------------------------------------------------------------
 
-gems:
+plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
