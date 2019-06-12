@@ -8,15 +8,14 @@ anon:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    This is a little page to keep track of my readings about habit-forming and behaviour, while I try to learn and apply these techniques on my personal journey.
-
+    This page serves as a compendium for my readings and interpretation of habit forming literature, as I follow my own journey. Check out the blog section for the newest posts!
 
   # This photo will be used in the about section
   picture:
-    src:
+    src:  /assets/img/Hlogo.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:
+      1x:   /assets/img/Hlogo.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

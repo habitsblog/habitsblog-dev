@@ -30,9 +30,9 @@ author:
   name:              anonymous
   email:             habitsblog1@gmail.com
   picture:
-    path:
+    path:           /assets/img/Hlogo.png
     srcset:
-      1x:
+      1x:           /assets/img/Hlogo.png
 
 # Fallback image and color
 image:               /assets/img/nap.png
